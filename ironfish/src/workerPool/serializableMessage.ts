@@ -10,6 +10,7 @@ export enum WorkerMessageType {
   CreateMinersFee = 'createMinersFee',
   CreateTransaction = 'createTransaction',
   GetUnspentNotes = 'getUnspentNotes',
+  JobError = 'JobError',
   MineHeader = 'mineHeader',
   Sleep = 'sleep',
   SubmitTelemetry = 'submitTelemetry',
