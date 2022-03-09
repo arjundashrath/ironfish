@@ -9,6 +9,9 @@
     ],
     "peerDependencies": {
       "eslint": "7.29.0"
+    },
+    "scripts": {
+      "test": "node index.test.js"
     }
   }
   
